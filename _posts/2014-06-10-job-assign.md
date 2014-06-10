@@ -33,7 +33,7 @@ share:
 2. Server: Tang, Eddie and David
 3. UI: Yvonne, Yuyu, Charles and David
 4. Workflow: Yuyu
-5. Game name: Tang, Jane and everone.
+5. Game name: Tang, Jane and everyone.
 
 
 ## 尋找協作平台
