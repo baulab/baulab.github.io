@@ -11,13 +11,13 @@ comments:
 share: 
 ---
 
-## Project：
+## Project
 
 棋盤上閃躲遊戲，玩家操控簡單的方塊，互相碰撞到的兩方淘汰。  
 最後留下來的玩家為Winner。
 
 
-## 流程：
+## 流程
 
 1. 集合大廳(可打嘴泡)
 2. 方塊移動功能(需看得見其他玩家移動的位置)
@@ -27,7 +27,7 @@ share:
 
 > 系統隨機炸彈、玩家設置炸彈、玩家攻擊...etc
 
-## 技術 Survey：
+## 技術 Survey
 
 1. P2P: Tang, Eddie, Charles and Jane
 2. Server: Tang, Eddie and David
