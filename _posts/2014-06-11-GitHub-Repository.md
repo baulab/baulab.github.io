@@ -11,6 +11,11 @@ comments:
 share: 
 ---
 
+## Blog URL
+
+http://baulab.github.io/
+
+## Repository
 
 BAULab: https://github.com/baulab
 
