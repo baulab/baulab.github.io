@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Project 01: assign job"
+title:  "Project 01: Assign job"
 modified: 2014-06-10 14:37:10 +0800
+author: Tang
 tags: [job assign]
 image:
   feature: 

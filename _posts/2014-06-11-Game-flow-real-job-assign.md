@@ -2,6 +2,7 @@
 layout: post
 title:  "Project 01: Game flow & real job assign"
 modified: 2014-06-11 21:13:10 +0800
+author: Jane
 tags: [job assign]
 image:
   feature: 

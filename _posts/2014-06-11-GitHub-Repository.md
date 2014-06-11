@@ -2,6 +2,7 @@
 layout: post
 title:  "Project 01: GitHub Repository"
 modified: 2014-06-11 21:57:10 +0800
+author: Jane
 tags: [repository]
 image:
   feature: 
