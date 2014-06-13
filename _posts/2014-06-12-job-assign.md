@@ -1,3 +1,19 @@
+20140612 Project 01: real job assign
+
+---
+layout: post
+title:  "Project 01: job assign"
+modified: 2014-06-12 19:00:00 +0800
+author: Charles
+tags: [job assign]
+image:
+  feature: 
+  credit: 
+  creditlink: 
+comments: 
+share: 
+---
+
 ## Project
 
 預計6/17(二)展示各模組成果
