@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project 01: Assign job"
+title:  "Project 01: Project setup"
 modified: 2014-06-10 14:37:10 +0800
 author: Tang
 tags: [job assign]
