@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Project 02: Round 2"
+modified: 2014-07-22 18:00:00 +0800
+author: Tang
+tags: [startup]
+image:
+  feature: 
+  credit: 
+  creditlink: 
+comments: 
+share: 
+---
+
+## 動機
+
+* 使用 `PhoneGap` 開發跨平台 App。
+* 參考 `PhoneGap` 可支援的硬體操作，討論實作主題。
+
+## 主題
+
+1. 手機 NFC
+2. 抓姦高手, Find My Friends (GPS 地理位置, Google Maps)
+3. 今天吃什麼？, 菜單、分賬、分享 (ex: Decide Now)
+4. Whoscall 電話過濾
+
+## 實作主題 - 今天吃什麼？
+
+開發形態分組：
+
+1. Native(iOS or Android): Charles, Yvonne, Yuyu
+2. PhoneGap: Jane, Tang, Eddie
+
+各自帶開...
