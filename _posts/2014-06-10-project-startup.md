@@ -1,16 +1,10 @@
 ---
 layout: post
-title:  "Project 01: Project setup"
-modified: 2014-06-10 14:37:10 +0800
-author: Tang
-tags: [job assign]
-image:
-  feature: 
-  credit: 
-  creditlink: 
-comments: 
-share: 
+category :
+tagline : "Project 01"
+tags : [job assign, startup]
 ---
+{% include JB/setup %}
 
 ## Project
 

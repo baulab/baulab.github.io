@@ -1,16 +1,10 @@
 ---
 layout: post
-title:  "Project 01: Job assign"
-modified: 2014-06-13 10:22:00 +0800
-author: Charles
-tags: [job assign]
-image:
-  feature: 
-  credit: 
-  creditlink: 
-comments: 
-share: 
+category :
+tagline : "Project 01"
+tags : [job assign]
 ---
+{% include JB/setup %}
 
 ## Project
 
