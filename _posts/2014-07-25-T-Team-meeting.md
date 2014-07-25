@@ -11,7 +11,7 @@ tags : [job assign, function]
 * 決定前端使用 Bootstrap
 
 * Function Map  
-  ![](/images/t_p2_function_map.png)
+  ![Function Map](/images/t_p2_function_map.png)
 
 * 暫定部分功能
 
@@ -19,7 +19,7 @@ tags : [job assign, function]
 ## Work
 1. 調研 NodeJS REST-API (Back-end) 
 2. 調研 Database.. (Maybe NoSQL...)
-3. 學習 Bootstrap (http://getbootstrap.com/) (Front-end) 
+3. 學習 [Bootstrap](http://getbootstrap.com/) (Front-end) 
 4. 繪製會員註冊 wireframe (Eddie..)
 
 ## Next week
