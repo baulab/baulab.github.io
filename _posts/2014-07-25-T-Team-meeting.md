@@ -11,7 +11,7 @@ tags : [job assign, function]
 * 決定前端使用 Bootstrap
 
 * Function Map  
-![](/images/t_p2_function_map.png)
+  ![](/images/t_p2_function_map.png)
 
 * 暫定部分功能
 
