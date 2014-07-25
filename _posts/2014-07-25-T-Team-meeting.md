@@ -19,7 +19,7 @@ tags : [job assign, function]
 ## Work
 1. 調研 NodeJS REST-API (Back-end) 
 2. 調研 Database.. (Maybe NoSQL...)
-3. 學習 Bootstrap (http://getbootstrap.com/) (Front-end) 
+3. 學習 [Bootstrap](http://getbootstrap.com/) (Front-end) 
 4. 繪製會員註冊 wireframe (Eddie..)
 
 ## Next week
