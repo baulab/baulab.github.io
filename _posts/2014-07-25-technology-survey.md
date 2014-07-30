@@ -1,7 +1,7 @@
 ---
 layout: post
-category :
-tagline : "Project 02 - t-team-first.."
+category : PhoneGap
+tagline : "PhoneGap Team"
 tags : [job assign, function]
 ---
 {% include JB/setup %}
